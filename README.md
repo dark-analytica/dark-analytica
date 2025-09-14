@@ -25,7 +25,7 @@ Priority Intelligence Requirements (PIR) frameworks, source registries, and coll
 ### 🧠 **[structured-analytic-techniques](https://github.com/dark-analytica/structured-analytic-techniques)**
 Analysis of Competing Hypotheses (ACH), Key Assumptions Check, and other structured analytic technique implementations.
 
-### 🚨 **[CyberFusion-Workspace](https://github.com/dark-analytica/CyberFusion-Workspace)**
+### 🚨 **[cyber-workspace](https://github.com/dark-analytica/cyber-workspace)**
 CrowdStrike/LogScale operations workspace with detection engineering and threat hunting capabilities.
 
 ## 🛠️ How to Use
